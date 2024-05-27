@@ -9,11 +9,16 @@ train.csv: Zbiór danych treningowych zawierający informacje o pasażerach Tita
 test.csv: Zbiór danych testowych, który zostanie użyty do generowania predykcji.
 
 Skrypty
+
 titanic_data.py: Skrypt Pythona zawierający kod do analizy danych, przetwarzania, uczenia maszynowego i generowania predykcji.
+
 CLI.py: Skrypt CLI służący do wywoływania funkcji i przeglądu danych zawartych w modułach titanic_data.py, OPIS.py
+
 OPIS.py: Skrypt Pythona zawierający opisy wykresów oraz funkcji zawartych w titanic_data.py
+
 README.md: Niniejszy plik, zawierający opis projektu.
 Zależności
+
 Projekt wymaga zainstalowania następujących pakietów:
 
 pandas
