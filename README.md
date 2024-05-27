@@ -20,7 +20,6 @@ README.md: Niniejszy plik, zawierający opis projektu.
 Zależności
 
 Projekt wymaga zainstalowania następujących pakietów:
-
 pandas
 numpy
 matplotlib
